@@ -1,9 +1,9 @@
 
 # Who am I
 
-* I was born in Venezuela but moved to Algarve when I was 13.
-* I have a PhD in Neuroscience but have no intention of staying in academia.
-* I have some experience analyzing data from my own experiments but no formal training whatsoever.
+* I was born in germany and partook in an highschool exchange program and lived a year in the US.
+* I have a bachelors degree in mechanical engineering
+* I worked as a Data Analyst for about two years mainly focusing on data visualization
 
 # Why am I here
 
@@ -12,6 +12,7 @@
 
 # What will I do after the course?
 
-* Would love to get into the sports industry.
-* I will look for patterns in data where people are not even looking.
-* To enjoy myself.
+* Would love to work at a company that works on preventing climate change
+* Unfortunately this topic doesn't get as much coverage in the press anymore.
+* However, it's still an urgent topic. 
+
